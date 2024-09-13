@@ -5,9 +5,9 @@ Love Computer
 
 ## Skills
 
-- **Languages**: ✦Py, C, C++, Js, Rust, Java
-- **Frameworks**: ✦Flask, Actix-Web, Bevy-Engine
-- **Tools**: Git, ✦VS Code, IntelliJ-IDEA Docker, ✦LXC, Spyder
+- **Languages**: ✦Py, C, C++, Js, Rust, Java  
+- **Frameworks**: ✦Flask, Actix-Web, Bevy-Engine  
+- **Tools**: Git, ✦VS Code, IntelliJ-IDEA Docker, ✦LXC, Spyder  
 
 
 
