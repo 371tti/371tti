@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there　(⁠つ⁠≧⁠▽⁠≦⁠)⁠つ
+Im 371tti!  
+Love Computer
+
+
+## Skills
+
+- **Languages**: ✦Py, C, C++, Js, Rust, Java
+- **Frameworks**: ✦Flask, Actix-Web,　Bevy-Engine
+- **Tools**: Git, ✦VS Code, IntelliJ-IDEA Docker, ✦LXC, Spyder
+
+
+
 
 <!--
 **371tti/371tti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
