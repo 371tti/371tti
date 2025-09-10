@@ -2,14 +2,6 @@
 Im 371tti!  
 Love Computer
 
-
-## Skills
-
-- **Languages**: ✦Py, C, C++, Js, ✦Rust, Java  
-- **Frameworks**: ✦Flask, Actix-Web
-- **Tools**: Git, ✦VS Code, IntelliJ-IDEA Docker, ✦LXC, Spyder  
-
-
 [my_web_page](https://371tti.net)
 
 <p align="left"> 
