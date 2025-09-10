@@ -15,5 +15,6 @@ Love Computer
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=371tti&layout=compact&show_icons=true&theme=dracula" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=371tti&theme=dracula&show_icons=ture" />
+  <img alt="lang" height="150px" src="https://skillicons.dev/icons?i=rust,html,css,java,py,c,ts,js,cpp,go&perline=4" />
 </p>
-[![lang](https://skillicons.dev/icons?i=rust,html,css,java,py,c,ts,js,cpp,go&perline=4)](https://skillicons.dev)
+
