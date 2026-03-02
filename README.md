@@ -2,4 +2,4 @@
 Im 371tti!  
 Love Computer
 
->> [my_web_page](https://371tti.net) <<
+[my_web_page](https://371tti.net) <- (´・ω・｀)
